@@ -50,7 +50,7 @@ ul {
 }
 
 .main {
-  flex: 1;
+  
   background-color: #1F2937;
   color:#e5e7eb;
   display: flex;
@@ -86,7 +86,6 @@ ul {
   font-weight: 900;
 }
 .information-section { 
-  flex: 1; 
   display: flex;  
   flex-direction: column;
   align-items: center;  
@@ -103,8 +102,7 @@ ul {
   margin-bottom: 100px;
   
 }
-.item img {
-  
+.item img {  
   width: 200px;
   height: 200px;
   border: 2px #3882f6 solid;
@@ -116,7 +114,7 @@ ul {
 }
 
 .testimonial{
-  flex: 1;
+  
   display: flex;
   background-color: #e5e7eb;
   justify-content: center;
@@ -155,7 +153,7 @@ ul {
 }
 
 .footer{
-  flex: 1 0 auto;
+  
   display: flex;
   background-color: #1F2937;
   font-size: 16px;
